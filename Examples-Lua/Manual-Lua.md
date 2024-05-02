@@ -1,3 +1,21 @@
+# Manual de lua con comentarios en español
+## Indice
+- [Variables](#variables)
+- [Lógica booleana](#lógica-booleana)
+- [Operaciones](#operaciones)
+- [Concatenación de Cadenas](#concatenación-de-cadenas)
+- [Patrones en Lua](#patrones-en-lua)
+- [Control de flujo](#control-de-flujo)
+- [Funciones](#funciones)
+- [Constructores de Tablas](#constructores-de-tablas)
+- [Ordenación de Tablas](#ordenación-de-tablas)
+- [Entorno Global](#entorno-global)
+- [Iteración con ipairs y pairs](#iteración-con-ipairs-y-pairs)
+
+
+
+
+
 ## Variables
 ```Lua
 -- Lua es de tipado dinámico. Las variables no tienen tipos; solo los valores tienen tipos.
