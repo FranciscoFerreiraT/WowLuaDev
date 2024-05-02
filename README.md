@@ -27,7 +27,6 @@ El repositorio está organizado de la siguiente manera:
     - Guía de Desarrollo de Addons para WoW
     - Documentación de la API de WoW
     - Guía de Buenas Prácticas
-    - Ejemplos de Código Comentado
     - FAQ 
 - **Resources**
     - Links y Recursos Adicionales
